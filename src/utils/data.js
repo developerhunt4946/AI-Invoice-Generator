@@ -26,3 +26,27 @@ export const FEATURES = [
       "Work from anywhere with seamless cloud connectivity and 24/7 server uptime. Designed for distributed teams, ensuring your content is always within reach—no matter your location.",
   },
 ];
+
+export const TESTIMONIALS = [
+  {
+    quote:
+      "This platform has completely transformed the way we manage our workflow. The performance and usability are unmatched.",
+    author: "Alex Johnson",
+    title: "Product Manager at HorizonTech",
+    avatar: "https://via.placeholder.com/150",
+  },
+  {
+    quote:
+      "An exceptional experience from start to finish. The features are powerful yet extremely easy to use.",
+    author: "Maria Gomez",
+    title: "Founder, CreativeSpark",
+    avatar: "https://via.placeholder.com/150",
+  },
+  {
+    quote:
+      "Their support team is outstanding and the product itself is a game changer for our daily operations.",
+    author: "David Brown",
+    title: "Operations Lead, NovaWorks",
+    avatar: "https://via.placeholder.com/150",
+  },
+];
